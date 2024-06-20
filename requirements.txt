@@ -55,6 +55,7 @@ Werkzeug==3.0.3
 yarl==1.9.4
 gunicorn
 scikit-learn==0.14.1
+numpy==1.26.4
 Streamlit
 pyqt6
 pyqt6-tools
