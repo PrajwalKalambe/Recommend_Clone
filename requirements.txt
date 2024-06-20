@@ -57,3 +57,5 @@ yarl==1.9.4
 gunicorn
 scikit-learn==0.14.1
 collections
+pyqt6
+pyqt6-tools
