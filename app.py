@@ -7,7 +7,7 @@ from collections import Counter
 import pandas as pd
 import requests
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS']='D:\\Python\\GoogleVision_API\\API_key.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS']='API_key.json'
 
 app= Flask(__name__)
 
