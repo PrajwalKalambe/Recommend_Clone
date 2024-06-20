@@ -47,7 +47,7 @@ def visionA():
         if(is_url_image(projectpath)):
             
             a=detect_feature(projectpath) 
-            df = pd.read_csv('D:\\Python\\Recommend_Clone\\final_result.csv')
+            df = pd.read_csv('gs://visionassignement/final_result.csv')
             URL_link = df['URL']
             new_df=df
             
