@@ -84,5 +84,4 @@ def visionA():
     return render_template('index.html',output_arr=output_arr)
     
 
-if __name__ == '__main__':
-    app.run()
+
